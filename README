@@ -1,0 +1,27 @@
+# Jogo da velha
+
+## Descrição do pacote:
+
+Esse pacote foi feito com a intenção de criar um jogo da velha para o trabalho do curso do NES de Programação Orientada a Objetos.
+
+
+### pré-requisitos:
+
+Nesse pacote foi utilizado o random,sendo assim é necessário a instalação do random para o funcionamento desse codigo.
+
+
+#### Como usar:
+
+instale as dependencias necessárias.
+
+use o codigo abaixo para instalar:
+
+pip install -r requirements.txt
+
+execute o codigo em exemplos.py.
+
+siga as instruções e escolha se quer jogar contra um robô(digite numero 2) ou um amigo (digite numero 1).
+
+##### Contribuições:
+
+Quaisquer contruibuições são bem-vindas,mas para entender o codigo e contribuir para o projeto, é necessário um certo conhecimento com funções,metodos e atributos,input,if e while.
