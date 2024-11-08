@@ -1,0 +1,25 @@
+relações de herança simples:
+
+
+há uma relação entre JogadorHumano e Jogador.
+
+JogadorHumano herda da classe Jogador,e como herda apenas dela,é uma herança simples.
+
+
+há uma relação entre JogadorComputador e Jogador.
+
+JogadorComputador herda da classe Jogador,e como herda apenas dela,é uma herança simples.
+
+
+
+relações de composição:
+
+
+há uma relação entre JogoVelha e Tabuleiro
+
+A classe JogoVelha usa o atributo tabuleiro, que é uma instância da classe Tabuleiro. Assim, é um exemplo de composição, onde "JogoVelha" contém e gerencia a instância de Tabuleiro.
+
+
+há uma relação entre JogoVelha e Jogador
+
+A classe JogoVelha possui o atributo jogadores, que é uma lista de instâncias de Jogador (ou das subclasses JogadorHumano e JogadorComputador). Isso é uma composição, pois JogoVelha depende das instâncias de Jogador para funcionar.
