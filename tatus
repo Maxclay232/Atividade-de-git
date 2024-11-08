@@ -1,0 +1,23 @@
+[33mcommit bb752e74e4352aa71d0d3f996b7aa0b090d3398a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Max Clay <max946220@gmail.com>
+Date:   Fri Nov 8 18:10:40 2024 -0300
+
+    Descreva aqui as mudanças que foram feitas
+
+[33mcommit a4618be1165113cde58abe7d3c501abbb57151a1[m
+Author: Max Clay <max946220@gmail.com>
+Date:   Fri Nov 8 18:07:27 2024 -0300
+
+    first commit
+
+[33mcommit f08924311cd1a17994fe3cb7f661ae151851cdf4[m
+Author: Max Clay <max946220@gmail.com>
+Date:   Fri Nov 8 17:59:41 2024 -0300
+
+    Remove __pycache__ do repositório e adiciona ao .gitignore
+
+[33mcommit abcacba2a437804e06d3aa3f92077f6b7f17d913[m
+Author: Max Clay <max946220@gmail.com>
+Date:   Fri Nov 8 16:50:24 2024 -0300
+
+    Remove o diretório __pycache__ do repositório
